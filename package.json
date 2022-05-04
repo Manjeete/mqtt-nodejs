@@ -1,0 +1,27 @@
+{
+  "name": "mqtt-nodejs",
+  "version": "1.0.0",
+  "description": "mqtt testing code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manjeete/mqtt-nodejs.git"
+  },
+  "keywords": [
+    "mqtt",
+    "express",
+    "node"
+  ],
+  "author": "Manjeet Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manjeete/mqtt-nodejs/issues"
+  },
+  "homepage": "https://github.com/Manjeete/mqtt-nodejs#readme",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
